@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_practice_week6"]=self["webpackChunkvue_practice_week6"]||[]).push([[841],{841:function(e,r,n){n.r(r),n.d(r,{default:function(){return k}});var t=n(252);const u=(0,t.Uk)(" cart ");function c(e,r){const n=(0,t.up)("router-view");return(0,t.wg)(),(0,t.iD)(t.HY,null,[u,(0,t.Wm)(n)],64)}var a=n(744);const i={},s=(0,a.Z)(i,[["render",c]]);var k=s}}]);
+//# sourceMappingURL=841.33b6a339.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_practice_week6"]=self["webpackChunkvue_practice_week6"]||[]).push([[871],{871:function(e,n,r){function u(e,n,r,u,c,t){return" HOME "}r.r(n),r.d(n,{default:function(){return f}});var c={},t=r(744);const a=(0,t.Z)(c,[["render",u]]);var f=a}}]);
+//# sourceMappingURL=871.a5aa3053.js.map
